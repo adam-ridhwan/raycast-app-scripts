@@ -14,4 +14,3 @@
 # @raycast.authorURL https://raycast.com/adam_ridhwan
 
 open -a "Jira"
-
