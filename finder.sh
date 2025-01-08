@@ -14,3 +14,5 @@
 # @raycast.authorURL https://raycast.com/adam_ridhwan
 
 open -a "Finder"
+osascript -e 'tell application "System Events" to key code 49 using {control down, option down, command down}'
+osascript -e 'tell application "System Events" to key code 50 using {control down, option down, command down}'
