@@ -2,16 +2,17 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Warp
+# @raycast.title Zoom
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon ⏺️
+# @raycast.icon 💻
 
 # Documentation:
-# @raycast.description Opens Warp Terminal
+# @raycast.description Opens zoom
 # @raycast.author adam_ridhwan
 # @raycast.authorURL https://raycast.com/adam_ridhwan
 
-open -a "Warp"
-osascript -e 'tell application "System Events" to key code 41 using {command down, option down, control down}'
+open -a "zoom.us"
+
+
