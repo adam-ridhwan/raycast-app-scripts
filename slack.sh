@@ -14,4 +14,3 @@
 # @raycast.authorURL https://raycast.com/adam_ridhwan
 
 open -a "Slack"
-osascript -e 'tell application "System Events" to key code 41 using {command down, option down, control down}'
